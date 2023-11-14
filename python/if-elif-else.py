@@ -2,9 +2,11 @@
 age = int(input('How old are you?: '))
 
 if age >= 18:
-    print("You are an adult!")
+    print("You're practically in your grave homie")
+    
 elif age < 110:
-    print("You're practically in your grave homie")#it will print you are an adult even if you put 400 age 
+    print("You are an adult!")
+    #it will print you are an adult even if you put 400 age 
 elif age < 0:
     print("You haven't been born yet dawg")
 

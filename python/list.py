@@ -6,7 +6,9 @@ food.append("ice cream")
 #food.remove("pepsi")
 #food.pop()
 
-food.insert(0,"zucchini")
+print(food.index("boorgir"))
+#food.insert(0,"zucchini")
+print(index)
 
 food.sort()
 #print(food[1])

@@ -1,6 +1,4 @@
 # tuple = collection which is ordered and unchangeable used to group together related data 
-
-
 student = ("aryan",20,"male")
 
 print(student.count("aryan"))
