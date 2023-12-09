@@ -12,3 +12,4 @@ for key,value in capitals.items():
 
 #print(capitals['India'])
 #print(capitals.keys())
+
