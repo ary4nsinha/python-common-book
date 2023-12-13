@@ -1,11 +1,15 @@
 import pandas as pd 
 # Create a Series
 # One Dimensional,
-
-series_data = pd.Series([10, 20, 30, 40, 50], name='Numbers')
+a = [10,20,30,40,50]
+series_data = pd.Series(a, name='Numbers')
 print("Series:")
 print(series_data)
 print("\n")
+newVar = pd.Series(a, index=["a","b","c","d","e"])
+print(newVar['c'])
+
+
 
 # Create a DataFrame
 data = {
@@ -17,3 +21,11 @@ data = {
 data_frame = pd.DataFrame(data)
 print("DataFrame:")
 print(data_frame)
+
+print(data_frame.loc[[1,2]])
+
+newData = pd.DataFrame(data, index=["Naam", "Umar","Pata","x","c"])
+
+print(newData)
+
+

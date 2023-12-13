@@ -1,5 +1,6 @@
-from numpy import random
 import matplotlib.pyplot as plt
 import seaborn as sns
-sns.distplot(random.normal(size=1000))
+
+sns.distplot([0, 1, 2])
+
 plt.show()
