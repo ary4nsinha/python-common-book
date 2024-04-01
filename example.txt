@@ -1,8 +1,0 @@
-Hello, this is a sample file created using Python!
-My name is aryan
-How are you?
-What are your plans for tommorow?
-Sounds Good!
- I am going to Himalayas
- Ok bye 
- Great enjoy your trip balle balle

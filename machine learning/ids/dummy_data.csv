@@ -1,0 +1,16 @@
+Age,City,Job,Income,Experience
+25.0,Pune,Engineer,65000.0,4.0
+30.0,Delhi,Doctor,80000.0,8.0
+28.0,Chennai,Manager,,5.0
+,Mumbai,Engineer,75000.0,2.0
+22.0,Delhi,Teacher,50000.0,1.0
+35.0,Pune,,70000.0,6.0
+40.0,,Scientist,95000.0,10.0
+26.0,Mumbai,Teacher,72000.0,3.0
+32.0,Delhi,Engineer,68000.0,7.0
+,Chennai,Doctor,82000.0,
+21.0,Pune,Engineer,64000.0,2.0
+34.0,Mumbai,Manager,74000.0,6.0
+31.0,Delhi,Manager,85000.0,7.0
+29.0,Pune,Scientist,90000.0,9.0
+33.0,Chennai,Doctor,78000.0,5.0
